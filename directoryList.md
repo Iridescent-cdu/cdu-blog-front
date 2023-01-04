@@ -1,16 +1,4 @@
-# cdu-blog-front
-
-1. 安装依赖
-
-   ```shell
-   npm install 
-   
-   ```
-
-2. 文件夹目录结构
-
-   ```markdown
-  |-- blog
+|-- blog
     |-- .cz-config.js
     |-- .env.development
     |-- .env.production
@@ -161,6 +149,3 @@
                         |-- result.vue
                         |-- search.vue
                         |-- tags.vue
-
-   ```
-
