@@ -9,8 +9,8 @@
 
 2. 文件夹目录结构
 
-   ```markdown
-  |-- blog
+     ```markdown
+   |-- blog
     |-- .cz-config.js
     |-- .env.development
     |-- .env.production
@@ -161,6 +161,3 @@
                         |-- result.vue
                         |-- search.vue
                         |-- tags.vue
-
-   ```
-
